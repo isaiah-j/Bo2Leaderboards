@@ -1,0 +1,21 @@
+
+#app-bar{
+    position: absolute;
+    top: 0;
+    background-color: #1F2022;
+    border-bottom: 1px solid blue;
+}
+
+#nav-links {
+	width: 100%;
+	display: flex;
+    justify-content: end;
+    color: white;
+}
+
+.nav-link{
+    color: white;
+    text-decoration: none;
+}
+
+
